@@ -30,7 +30,6 @@ class User(object):
                                         'name': name,
                                         'email': email,
                                         'pass': password,
-                                        
                                     }
                                     return 1
                                 return 7
